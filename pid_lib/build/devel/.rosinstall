@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pid_control/pid_lib/build/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/pid_control/pid_lib/build/devel
+
+Name: pid
+Description: Description of pid
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
